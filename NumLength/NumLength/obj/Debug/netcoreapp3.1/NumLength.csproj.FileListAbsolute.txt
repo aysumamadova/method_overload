@@ -1,0 +1,14 @@
+C:\Users\AysuMemmedova\source\repos\NumLength\NumLength\obj\Debug\netcoreapp3.1\NumLength.csproj.AssemblyReference.cache
+C:\Users\AysuMemmedova\source\repos\NumLength\NumLength\obj\Debug\netcoreapp3.1\NumLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AysuMemmedova\source\repos\NumLength\NumLength\obj\Debug\netcoreapp3.1\NumLength.AssemblyInfoInputs.cache
+C:\Users\AysuMemmedova\source\repos\NumLength\NumLength\obj\Debug\netcoreapp3.1\NumLength.AssemblyInfo.cs
+C:\Users\AysuMemmedova\source\repos\NumLength\NumLength\obj\Debug\netcoreapp3.1\NumLength.csproj.CoreCompileInputs.cache
+C:\Users\AysuMemmedova\source\repos\NumLength\NumLength\bin\Debug\netcoreapp3.1\NumLength.exe
+C:\Users\AysuMemmedova\source\repos\NumLength\NumLength\bin\Debug\netcoreapp3.1\NumLength.deps.json
+C:\Users\AysuMemmedova\source\repos\NumLength\NumLength\bin\Debug\netcoreapp3.1\NumLength.runtimeconfig.json
+C:\Users\AysuMemmedova\source\repos\NumLength\NumLength\bin\Debug\netcoreapp3.1\NumLength.runtimeconfig.dev.json
+C:\Users\AysuMemmedova\source\repos\NumLength\NumLength\bin\Debug\netcoreapp3.1\NumLength.dll
+C:\Users\AysuMemmedova\source\repos\NumLength\NumLength\bin\Debug\netcoreapp3.1\NumLength.pdb
+C:\Users\AysuMemmedova\source\repos\NumLength\NumLength\obj\Debug\netcoreapp3.1\NumLength.dll
+C:\Users\AysuMemmedova\source\repos\NumLength\NumLength\obj\Debug\netcoreapp3.1\NumLength.pdb
+C:\Users\AysuMemmedova\source\repos\NumLength\NumLength\obj\Debug\netcoreapp3.1\NumLength.genruntimeconfig.cache

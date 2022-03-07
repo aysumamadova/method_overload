@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AysuMemmedova\\source\\repos\\Overload task\\Overload task\\Overload task.csproj",
+      "projectUniqueName": "C:\\Users\\AysuMemmedova\\Desktop\\Tasks\\Overload task\\Overload task\\Overload task.csproj",
       "projectName": "Overload task",
-      "projectPath": "C:\\Users\\AysuMemmedova\\source\\repos\\Overload task\\Overload task\\Overload task.csproj",
+      "projectPath": "C:\\Users\\AysuMemmedova\\Desktop\\Tasks\\Overload task\\Overload task\\Overload task.csproj",
       "packagesPath": "C:\\Users\\AysuMemmedova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AysuMemmedova\\source\\repos\\Overload task\\Overload task\\obj\\",
+      "outputPath": "C:\\Users\\AysuMemmedova\\Desktop\\Tasks\\Overload task\\Overload task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AysuMemmedova\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,15 +7,17 @@ namespace Overload_task
       
         static void Main(string[] args)
         {
-            Console.WriteLine(Area(4, -6, 6, 4));
+            Console.WriteLine(Area(4,4,7));
         }
 
         static int Area(int radius)
-        //Çevrənin sahəsi
+       
         {
             if (radius>0)
             {
+                Console.WriteLine("Çevrenin sahesi:");
                 return radius * radius * 3;
+                
             }
             else
             {
@@ -24,10 +26,11 @@ namespace Overload_task
         }
 
         static int Area(int a, int b)
-           // Düzbucaqlının sahəsi
+           
         {
             if (a>0 & b>0)
             {
+                Console.WriteLine("Düzbucaqlının sahesi:");
                 return a * b;
             }
             else
@@ -37,10 +40,11 @@ namespace Overload_task
         }
 
         static int Area(int a, int b, int c)
-        // Düzbucaqlı paralelpipedin tam səthinin sahəsi 
+        
         {
             if (a>0 & b>0 & c>0)
             {
+                Console.WriteLine("Düzbucaqlı paralelpipedin tam sehtinin sahesi:");
                 return (a * b + a * c + b * c) / 2;
             }
             else
@@ -51,10 +55,11 @@ namespace Overload_task
         }
 
         static int Area(int a, int b, int c, int r)
-        //Üçbucaqlının daxilinə çəkilmiş çevrənin sahəsi
+        
         {
             if (a>0 & b>0 & c>0 & r>0)
             {
+                Console.WriteLine("Üçbucaqlının daxiline çekilmiş çevrenin sahesi:");
                 int p = (a + b + c);
                 return p * r;
             }
